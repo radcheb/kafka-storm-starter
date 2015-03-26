@@ -11,3 +11,8 @@ project/plugins/project/
 
 # Kafka
 logs/*
+
+#eclipse
+.classpath
+.project
+.settings/
